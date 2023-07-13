@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+.container-list{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    gap: 20px;
+}
+
+
+ul{
+    list-style: none;
+}
